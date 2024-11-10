@@ -1,0 +1,19 @@
+[2024-11-09 22:43:11] Lidhje e re nga klienti me IP: 127.0.0.1
+[2024-11-09 22:43:27] Lidhje e re nga klienti me IP: 127.0.0.1
+[2024-11-09 22:43:33] Lidhje e re nga klienti me IP: 127.0.0.1
+[2024-11-09 22:43:54] Klienti në pozicionin 0 u largua.
+[2024-11-09 22:43:55] Klienti në pozicionin 1 u largua.
+[2024-11-09 22:43:56] Klienti në pozicionin 2 u largua.
+[2024-11-09 22:44:40] Lidhje e re nga klienti me IP: 127.0.0.1
+[2024-11-09 22:44:50] Lidhje e re nga klienti me IP: 127.0.0.1
+[2024-11-09 22:45:15] Klienti në pozicionin 0 ka ndryshuar qasjen nga Normal Client në Full Access Client
+[2024-11-09 22:45:51] Klienti në pozicionin 1 u largua.
+[2024-11-09 22:45:51] Klienti në pritje me IP 127.0.0.1 u lidh pas lirimit të një vendi.
+[2024-11-09 22:46:32] Lidhja me klientin në pozicionin 0 u mbyll për inaktivitet.
+[2024-11-09 22:46:48] Klienti në pozicionin 2 ka ndryshuar qasjen nga Normal Client në Full Access Client
+[2024-11-09 22:47:49] Lidhja me klientin në pozicionin 2 u mbyll për inaktivitet.
+[2024-11-09 22:52:56] Lidhje e re nga klienti me IP: 127.0.0.1
+[2024-11-09 22:53:11] Klienti në pozicionin 3 ka ndryshuar qasjen nga Normal Client në Full Access Client
+[2024-11-09 22:54:12] Lidhja me klientin në pozicionin 3 u mbyll për inaktivitet.
+[2024-11-09 23:24:12] Lidhje e re nga klienti me IP: 10.180.71.205
+[2024-11-09 23:24:28] Klienti në pozicionin 0 u largua.

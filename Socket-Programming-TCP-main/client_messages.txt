@@ -1,0 +1,6 @@
+Mesazh nga klienti 1: READ_FILE
+Mesazh nga klienti 0: READ_FILE
+Mesazh nga klienti 0: EXECUTE_CMD
+Mesazh nga klienti 2: READ_FILE
+Mesazh nga klienti 3: READ_FILE
+Mesazh nga klienti 0: READ_FILE
